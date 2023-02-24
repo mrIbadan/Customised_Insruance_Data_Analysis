@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=&message=александр-котенко&color=:#A7C7E7)
 
-![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Script&color=:#FAC898)
+![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Folder&color=:#FAC898)
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
    
@@ -21,7 +21,7 @@ Both R & Python scripts will have a dedicated Engine to power the behind the sce
 The engine also contains user defined functions that are used regularly & can likely to be required to run a particular project
 
 
-# Last Update - 2023/02/23
+# Last Update - 2023/02/24
 
 # Random_Data_Exploration
 [01_Create_Data](https://github.com/alexkotsscott/Customised_Insruance_Data_Analysis/blob/master/Generate%20Data%20Sets/01_Create_Data.ipynb)
