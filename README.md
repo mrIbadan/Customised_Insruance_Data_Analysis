@@ -2,6 +2,10 @@
 
 ![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Folder&color=:#FAC898)
 
+![](https://img.shields.io/badge/powered%20by%20JupyterLab-blue.svg?logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/powered%20by%20Python-yellow.svg?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/powered%20by%20R-blue.svg?logo=R&logoColor=white)
+
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
    
   <li>Stratify the data better (by LOB in particular) to better relect realistic scenarios</li>
