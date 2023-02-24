@@ -7,18 +7,22 @@
 ![](https://img.shields.io/badge/powered%20by%20R-blue.svg?logo=R&logoColor=white)
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
-   
-  <li>Stratify the data better (by LOB in particular) to better relect realistic scenarios</li>
-  <li>Example - for commercial property setting the value of the individual site, use external data</li>
 
-  <li>Not worthwhile spending time here Going between rpy2 (using Python in R, seperate notebooks for now) - Easier in Data bricks %R, %sql, %Python magic commands</li>
-  <li>Include some outliers for testing (so can create a control table to flag or drop these fields)</li>
+[Project sits in the master branch](https://github.com/alexkotsscott/Customised_Insruance_Data_Analysis/tree/master)
+
+
+<li>Stratify the data better (by LOB in particular) to better relect realistic scenarios</li>
+<li>Example - for commercial property setting the value of the individual site, use external data</li>
+
+<li>Not worthwhile spending time here Going between rpy2 (using Python in R, seperate notebooks for now) - Easier in Data bricks %R, %sql, %Python magic commands</li>
+<li>Include some outliers for testing (so can create a control table to flag or drop these fields)</li>
 </ol> 
 
 Exploring ways to share code & demos via new [code space feature](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/CodeSpace_Link.md)
 Codespace is pretty basic - about 5gb RAM
 Linux based
 Can handle some of the smaller demos
+Instance shuts down automatically after a period of inactivity - quite slow to boot up
 
 Coding is primarly (at this point in time) written in both R & Python
 Both R & Python scripts will have a dedicated Engine to power the behind the scenes stuff - install (if not installed) packages 
