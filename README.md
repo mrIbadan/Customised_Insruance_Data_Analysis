@@ -1,10 +1,11 @@
 ![](https://img.shields.io/static/v1?label=&message=александр-котенко&color=:#A7C7E7)
 
-![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Folder&color=:#FAC898)
+![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Folder)
 
-![](https://img.shields.io/badge/powered%20by%20JupyterLab-blue.svg?logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/powered%20by%20Python-yellow.svg?logo=Python&logoColor=white)
-![](https://img.shields.io/badge/powered%20by%20R-blue.svg?logo=R&logoColor=white)
+![](https://img.shields.io/badge/powered%20by%20JupyterLab-blue.svg?logo=jupyter)
+![](https://img.shields.io/badge/powered%20by%20Python-000000.svg?logo=Python)
+![](https://img.shields.io/badge/-Powered%20by%20R-blue?logo=Rstudio&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Powered%20by%20SublimeText-000000?logo=sublimetext&logoColor=#FFA500&style=flat)
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
 
@@ -28,8 +29,7 @@ Coding is primarly (at this point in time) written in both R & Python
 Both R & Python scripts will have a dedicated Engine to power the behind the scenes stuff - install (if not installed) packages 
 The engine also contains user defined functions that are used regularly & can likely to be required to run a particular project
 
-
-# Last Update - 2023/02/24
+# Last Update - 2023/02/25
 
 # Random_Data_Exploration
 [01_Create_Data](https://github.com/alexkotsscott/Customised_Insruance_Data_Analysis/blob/master/Generate%20Data%20Sets/01_Create_Data.ipynb)
