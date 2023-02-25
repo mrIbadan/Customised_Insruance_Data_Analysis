@@ -77,3 +77,11 @@ The below is a generic random dataset for multiple lines of business
 "Age":                    Between 18 & 80 random 
 "Broker":                 Random between -> 'london_ins', 'some_syndicate', 'some_mga' # Could add in weights for balance 
 </pre>
+
+
+| Variable | Definition |
+| --- | --- |
+| Customer_ID: | Cryptographically generated random identifiers  |
+| Purchase_Date: | Dates are random within a given range, Purchase date must always be earlier or equal to - Cover_Start_Date |
+| Cover_Start_Date: | Date Cover Starts - Random |
+| LOB: | Line Of Business  |
